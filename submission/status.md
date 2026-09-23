@@ -1,11 +1,24 @@
 # Conference submission status
 
+**Submitted with full PDF uploaded. Submission ID: 117.**
+
 Target: BIS-CEPR-Gerzensee-SFI Conference on Financial Intermediation 2027, 2–5 May 2027, Study Center Gerzensee, Switzerland.
 
-The official call was checked on 23 September 2026. It accepts theory and empirical financial-intermediation work. The deadline is midnight GMT on 20 November 2026, via ConfTool. Each submitting author may submit one paper. Only the submitting author is invited to present an accepted paper. The call describes 12 full paper presentations plus short/poster sessions. No acceptance or presentation invitation has been obtained.
+The authenticated ConfTool page displayed **File Upload Succeeded** and listed `Gupta_Delegated_Deposit_Control.pdf` under contribution 117, timestamped **23 September 2026, 10:45:54 CEST** (08:45:54 UTC). The required full-paper PDF is attached; the earlier missing-file warning was replaced by the success confirmation. `confirmation.json` records the observed confirmation and the SHA-256 hash of the local file used for upload.
 
-**Not submitted.** The author supplied the missing contact address on 23 September 2026. The registration form is populated with the author's name, affiliation, email, username, and address. Personal address details are excluded from this public repository. Account registration remains incomplete: the required title, password entry, privacy agreement, and final registration action await completion by the author. No registration or submission receipt exists.
+- Title: Who Can Move the Money? Delegated Deposit Control and Bank Liquidity
+- Author and presenting author: Shivam Gupta
+- Affiliation: Independent Researcher, India
+- Track: Full Paper Submissions
+- Topics: Banks – Theoretical; Fintech/financial innovation
+- Presentation preference: full presentation, with willingness to present a short paper or poster if not selected for a full presentation
+- Junior-scholar-only designation: not selected
+- Supporting repository: https://github.com/shi1720/delegated-deposits (release v1.0.0), supplied in the message to the program committee
 
-The full manuscript and submission metadata are prepared. Form-specific paper-upload limits and declarations remain to be checked after account creation. The author did not request arXiv submission for this task, and none was made.
+The form requested a plain-text abstract and a full PDF with a 20 MB maximum. No additional page limit or declaration was displayed in the submission workflow. The uploaded file is 266,065 bytes. One contribution is permitted per submitting author; this account now has contribution 117.
 
-Sources: [official call](https://cepr.org/events/bis-cepr-gerzensee-sfi-conference-financial-intermediation-2027), [ConfTool](https://www.conftool.pro/swiss-fi-2027/).
+The official call permits revisions until the submission deadline, midnight GMT on 20 November 2026. Only the submitting author may present an accepted paper. Submission is complete, but **no acceptance or presentation invitation has been received**. No arXiv submission was made.
+
+Personal mailing details and account credentials are excluded from this repository.
+
+Sources: [official call](https://cepr.org/events/bis-cepr-gerzensee-sfi-conference-financial-intermediation-2027), [ConfTool submissions](https://www.conftool.pro/swiss-fi-2027/index.php?page=submissions).

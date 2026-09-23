@@ -5,6 +5,8 @@ Shivam Gupta · Independent Researcher · 23 September 2026
 
 [Read the paper](output/pdf/Gupta_Delegated_Deposit_Control.pdf)
 
+Submitted to the BIS–CEPR–Gerzensee–SFI Conference on Financial Intermediation 2027 on 23 September 2026 (contribution 117). The full PDF upload is confirmed; no acceptance decision has been received. See [submission status](submission/status.md).
+
 This repository accompanies a theory paper on the difference between ownership of bank deposits and authority to withdraw them. A cap on the largest jointly controlled balance, combined with a specified class of withdrawal dependence, yields a sharp funding-risk frontier. The analysis also shows why greater concentration can raise funding costs while increasing the bank's chosen lending.
 
 The mathematics uses established majorization, moment optimization, and expected-shortfall tools. The contribution is their joint application to an explicit disclosure and valuation problem in delegated deposit funding. The literature review identifies close antecedents, including prior work on AI deposit brokers and Bernoulli dependence bounds.

@@ -1,0 +1,9 @@
+{
+  "seconds": 20.807146072387695,
+  "seed": 1720406,
+  "monte_carlo_draws": 6000000,
+  "fixed_cash_cases": 270,
+  "bank_choice_cases": 90,
+  "curve_cases": 3618,
+  "exact_rational_certificates": 18
+}

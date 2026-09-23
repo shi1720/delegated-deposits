@@ -1,0 +1,6 @@
+{
+  "url": "https://api.fdic.gov/banks/financials?filters=REPDTE%3A20241231&fields=CERT%2CNAME%2CREPDTE%2CASSET%2CDEP%2CDEPDOM%2CDEPINS%2CDEPUNINS%2CCHBAL%2CSC%2CSCUST%2CLNLSNET%2CBRO%2CSCMTGBK%2CBKCLASS&limit=10000&sort_by=CERT&sort_order=ASC&format=json",
+  "retrieved_utc": "2026-09-23T07:55:17.845239+00:00",
+  "sha256": "aeca93421413651a05cb081da65d7e8ff9b848fa98624fd8c0df37d4ae2f14f2",
+  "bytes": 1256193
+}

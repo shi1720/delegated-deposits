@@ -1,0 +1,15 @@
+{
+  "conference": "BIS-CEPR-Gerzensee-SFI Conference on Financial Intermediation 2027",
+  "conference_url": "https://cepr.org/events/bis-cepr-gerzensee-sfi-conference-financial-intermediation-2027",
+  "portal": "https://www.conftool.pro/swiss-fi-2027/",
+  "deadline_utc": "2026-11-20T23:59:59Z",
+  "title": "Who Can Move the Money? Delegated Deposit Control and Bank Liquidity",
+  "author": "Shivam Gupta",
+  "affiliation": "Independent Researcher",
+  "email": "shivam1720406@gmail.com",
+  "keywords": ["financial intermediation", "deposit funding", "delegated financial agents", "liquidity", "disclosure", "distributional uncertainty"],
+  "jel": ["G21", "G28", "C61"],
+  "paper": "output/pdf/Gupta_Delegated_Deposit_Control.pdf",
+  "code": "https://github.com/shi1720/delegated-deposits",
+  "status": "Not submitted; account registration requires a mailing address absent from the supplied resumes."
+}

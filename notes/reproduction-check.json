@@ -1,0 +1,126 @@
+{
+  "method": "Fresh source copy, archived inputs, existing Python 3.12 environment, no API acquisition",
+  "exit_code": 0,
+  "checks": [
+    {
+      "path": "results/assumption_sensitivity.csv",
+      "identical": true
+    },
+    {
+      "path": "results/bank_choice.csv",
+      "identical": true
+    },
+    {
+      "path": "results/bank_choice_refined.csv",
+      "identical": true
+    },
+    {
+      "path": "results/bank_descriptive.csv",
+      "identical": true
+    },
+    {
+      "path": "results/bank_scenario_summary.csv",
+      "identical": true
+    },
+    {
+      "path": "results/bank_scenarios.csv.gz",
+      "identical": true
+    },
+    {
+      "path": "results/convergence.csv",
+      "identical": true
+    },
+    {
+      "path": "results/curves.csv",
+      "identical": true
+    },
+    {
+      "path": "results/moment_sweep.csv",
+      "identical": true
+    },
+    {
+      "path": "results/monte_carlo.csv",
+      "identical": true
+    },
+    {
+      "path": "results/protocol_hash.json",
+      "identical": true
+    },
+    {
+      "path": "results/rational_certificates.json",
+      "identical": true
+    },
+    {
+      "path": "results/rational_certificates_refined.json",
+      "identical": true
+    },
+    {
+      "path": "results/sample_flow.csv",
+      "identical": true
+    },
+    {
+      "path": "results/witnesses.json",
+      "identical": true
+    },
+    {
+      "path": "data/processed/banks_20221231.csv",
+      "identical": true
+    },
+    {
+      "path": "data/processed/banks_20241231.csv",
+      "identical": true
+    },
+    {
+      "path": "data/processed/banks_20251231.csv",
+      "identical": true
+    },
+    {
+      "path": "paper/table-assumptions.tex",
+      "identical": true
+    },
+    {
+      "path": "paper/table-data.tex",
+      "identical": true
+    },
+    {
+      "path": "paper/table-dates.tex",
+      "identical": true
+    },
+    {
+      "path": "paper/table-flow.tex",
+      "identical": true
+    },
+    {
+      "path": "paper/table-risk.tex",
+      "identical": true
+    },
+    {
+      "path": "paper/table-scenarios.tex",
+      "identical": true
+    },
+    {
+      "path": "figures/01-ownership-and-control.png",
+      "identical": true
+    },
+    {
+      "path": "figures/02-control-and-common-risk.png",
+      "identical": true
+    },
+    {
+      "path": "figures/03-moments-and-tails.png",
+      "identical": true
+    },
+    {
+      "path": "figures/04-bank-choice.png",
+      "identical": true
+    },
+    {
+      "path": "figures/05-public-balance-sheets.png",
+      "identical": true
+    },
+    {
+      "path": "figures/06-verification.png",
+      "identical": true
+    }
+  ]
+}

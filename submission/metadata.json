@@ -7,9 +7,20 @@
   "author": "Shivam Gupta",
   "affiliation": "Independent Researcher",
   "email": "shivam1720406@gmail.com",
-  "keywords": ["financial intermediation", "deposit funding", "delegated financial agents", "liquidity", "disclosure", "distributional uncertainty"],
-  "jel": ["G21", "G28", "C61"],
+  "keywords": [
+    "financial intermediation",
+    "deposit funding",
+    "delegated financial agents",
+    "liquidity",
+    "disclosure",
+    "distributional uncertainty"
+  ],
+  "jel": [
+    "G21",
+    "G28",
+    "C61"
+  ],
   "paper": "output/pdf/Gupta_Delegated_Deposit_Control.pdf",
   "code": "https://github.com/shi1720/delegated-deposits",
-  "status": "Not submitted; account registration requires a mailing address absent from the supplied resumes."
+  "status": "Not submitted; contact information is entered, and account registration awaits author completion."
 }
